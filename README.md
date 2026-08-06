@@ -1,16 +1,58 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Denis-Zag/Denis-Zag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я — Денис
 
-Here are some ideas to get you started:
+**Python-разработчик • AI • Автоматизация • Практические проекты**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Развиваюсь в сфере Python-разработки, AI и автоматизации.
+
+Создаю CLI-приложения, Telegram- и VK-ботов, работаю с PostgreSQL, SQLite, REST API и Git.
+
+Люблю понятную архитектуру проектов, чистый код, качественную документацию и доведение проектов до законченного состояния.
+
+---
+
+## 🛠️ Стек технологий
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,postgresql,sqlite" />
+</p>
+
+**Также использую:**
+
+- REST API
+- VKBottle
+- aiogram
+- Requests
+- python-dotenv
+
+---
+
+## 🚀 Сейчас
+
+- 📚 Изучаю AI и современные инструменты разработки
+- 🤖 Осваиваю Prompt Engineering
+- ⚙️ Разрабатываю pet-проекты на Python
+- 📈 Постоянно совершенствую качество своих проектов
+
+---
+
+## 📂 Лучшие проекты
+
+🔹 **MVP Application Submission Service** — веб-приложение для сбора и обработки клиентских заявок.
+
+🔹 **OpenRelaxAPP** — VK-бот для поиска мероприятий через API KudaGo.
+
+🔹 **Telegram Team Bot** — бот для управления задачами на Python и aiogram.
+
+🔹 **Restaurant Booking System** — система бронирования столиков с PostgreSQL и Tkinter.
+
+🔹 **Weather CLI** — консольное приложение для получения прогноза погоды через OpenWeather API.
+
+🔹 **Currency Converter** — приложение для получения актуальных курсов валют через REST API.
+
+🔹 **Database Manager** — приложение для работы с SQLite и SQL-запросами.
+
+---
+
+> 💡 Каждый опубликованный проект проходит проверку по моему внутреннему стандарту качества: понятная структура, документация, чистый код и готовность к использованию.
