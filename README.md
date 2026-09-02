@@ -6,34 +6,44 @@
 
 Развиваюсь в сфере Python-разработки, AI и автоматизации.
 
-Создаю CLI-приложения, Telegram- и VK-ботов, работаю с PostgreSQL, SQLite, REST API и Git.
+Создаю приложения на Python, Telegram- и VK-ботов, REST API, интеграции с внешними сервисами и решения для автоматизации бизнес-процессов.
 
-Люблю понятную архитектуру проектов, чистый код, качественную документацию и доведение проектов до законченного состояния.
+Работаю с PostgreSQL, SQLite, Docker, Git и GitHub. Уделяю внимание понятной архитектуре, качеству кода, документации и доведению проектов до законченного состояния.
 
 ---
 
 ## 🛠️ Стек технологий
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,vscode,docker,git,github,postgresql,sqlite" />
 </p>
 
-**Также использую:**
+### ⚙️ Также использую
 
 - REST API
-- VKBottle
+- GitHub Actions (CI/CD)
+- Docker Compose
 - aiogram
-- Requests
-- python-dotenv
+- VKBottle
+
+---
+
+## 🚀 Практика разработки
+
+- Git
+- GitHub
+- GitHub Actions (CI/CD)
+- Docker
+- Docker Compose
 
 ---
 
 ## 🚀 Сейчас
 
-- 📚 Изучаю AI и современные инструменты разработки
-- 🤖 Осваиваю Prompt Engineering
-- ⚙️ Разрабатываю pet-проекты на Python
-- 📈 Постоянно совершенствую качество своих проектов
+- Разрабатываю практические проекты на Python
+- Изучаю AI, LLM и современные инструменты разработки
+- Осваиваю Docker, GitHub Actions и DevOps-практики
+- Постоянно совершенствую качество кода и архитектуру проектов
 
 ---
 
@@ -41,17 +51,15 @@
 
 🔹 **MVP Application Submission Service** — веб-приложение для сбора и обработки клиентских заявок.
 
+🔹 **Loki + Grafana** — локальный стек логирования и мониторинга с отправкой логов в Loki и визуализацией в Grafana.
+
+🔹 **GitHub Actions + Docker CI/CD** — FastAPI-проект с контейнеризацией Docker и автоматической сборкой/публикацией образа через GitHub Actions.
+
 🔹 **OpenRelaxAPP** — VK-бот для поиска мероприятий через API KudaGo.
 
 🔹 **Telegram Team Bot** — бот для управления задачами на Python и aiogram.
 
-🔹 **Restaurant Booking System** — система бронирования столиков с PostgreSQL и Tkinter.
-
-🔹 **Weather CLI** — консольное приложение для получения прогноза погоды через OpenWeather API.
-
-🔹 **Currency Converter** — приложение для получения актуальных курсов валют через REST API.
-
-🔹 **Database Manager** — приложение для работы с SQLite и SQL-запросами.
+🔹 **Restaurant Booking System** — система бронирования с PostgreSQL и Tkinter.
 
 ---
 
