@@ -30,7 +30,7 @@
 - **[Telegram Team AI Assistant](https://github.com/Denis-Zag/telegram-team-ai-assistant)** — ответы по переписке и документам, итоги обсуждений, решения и следующие действия. SQLite, Pinecone, Docling, Haystack.
 - **[AI-агент с инструментами и QR-кодами](https://github.com/Denis-Zag/AI-agent_with_QR)** — Telegram-агент выбирает инструменты для поиска, погоды, работы с пользовательскими файлами и создания QR-кодов. Python, aiogram, LLM API.
 
-Это учебные и практические проекты. Реализованные возможности, результаты проверок и ограничения описаны в README каждого проекта.
+В README каждого проекта описаны реализованные возможности, результаты проверок и ограничения.
 
 [Все репозитории →](https://github.com/Denis-Zag?tab=repositories)
 
